@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="piashsarker.com" version="0.0.1" xmlns="http://www.w3.org/ns/widgets">
+<widget id="diaconsult" version="0.0.1" xmlns="http://www.w3.org/ns/widgets">
     <name>Daktar Online</name>
     <description>An awesome Ionic/Cordova app.</description>
-    <author email="sarkerpt@gmail.com" href="http://ionicframework.com/">Piash Sarker</author>
+    <author email="bluetech.ke@gmail.com" href="http://ionicframework.com/">Bluetech Kenya</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
